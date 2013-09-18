@@ -1,0 +1,31 @@
+This is the original implementation of the STRIDE algorithm by Dmitrij Frishman
+as presented in:
+
+ - Frishman D, Argos P. Knowledge-Based Protein Secondary Structure Assignment
+   Proteins: Structure, Function, and Genetics 23:566-579 (1995)
+
+From the abstract, STRIDE calculates "protein secondary structure assignments
+form atomic coordinates based on the combined use of hydrogen bond energy and
+statistically derived backbone torsional angle information"
+
+This program also exists as a webservice at
+
+    http://webclu.bio.wzw.tum.de/stride/
+
+This distribution also includes nsc by Frank Eisenhaber as presented in:
+
+ - F.Eisenhaber, P.Lijnzaad, P.Argos, M.Scharf "The Double Cubic Lattice
+   Method: Efficient Approaches to Numerical Integration of Surface Area and
+   Volume and to Dot Surface Contouring of Molecular Assemblies" Journal of
+   Computational Chemistry (1994) submitted
+
+ - F.Eisenhaber, P.Argos "Improved Strategy in Analytic Surface Calculation for
+   Molecular Systems: Handling of Singularities and Computational Efficiency"
+   Journal of Computational Chemistry (1993) v.14, N11, pp-1272-1280
+
+The nsc component calculates residue solvent accessible areas.
+
+In 2013, the authors of STRIDE and nsc released the software under the terms of
+the MIT licence.
+
+For more information on how to use stride, refer to doc/stride.doc 

@@ -1,65 +1,23 @@
 /*
- *
- *  program NSC
- *  version 1.0  (April 1994)
- *
- *  Author: Frank Eisenhaber
- *
- *  For user notes see file nsc.h !!
- *
- *  Copyright Notice:
- *  All rights reserved, whether the whole or part of the program is
- *  concerned. The software may not be used without specific, prior 
- *  written permission of the author. 
- *
- *  An academic licence agreement for the package ASC/GM or its parts
- *  is granted if you make the following commitments:
- *  1) In using this software, the user will respect the interests of 
- *     the author.
- *  2) The use of the software in commercial activities is not allowed 
- *     without a prior written commercial licence agreement. The program
- *     will not be used in classified research.
- *  3) Other interested research groups will be redirected
- *     to the author. The user will not redistribute the code outside
- *     his immediate research group.
- *  4) The copyright messages will not be modified or suppressed.
- *  5) The reference given below will be cited in any publication
- *     of scientific results based in part or completely on use of the
- *     program.
- *  6) Bugs will be reported to the author.
- *
- *  Permission to use, copy, and modify this software and
- *  its documentation is hereby granted without fee for 
- *  academic use, provided
- *  that the above copyright notices and this permission notice appear in
- *  all copies of the software and related documentation.
- *
- *  THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF
- *  ANY KIND,
- *  EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
- *  WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
- *
- *  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
- *  ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND,
- *  OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
- *  WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF
- *  LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE
- *  OF THIS SOFTWARE.
- *
+ * Copyright (C) 1994 Frank Eisenhaber <franke at bii.a-star.edu.sg>
  * 
- *  contact address :    European Molecular Biology Laboratory
- *                       Biocomputing Unit
- *                       Meyerhofstr. 1
- *                       Postfach 10.2209
- *                       D-69012 Heidelberg
- *                       Federal Republic of Germany
- *
- *
- *
- *  E-mail : IN%"EISENHABER@EMBL-Heidelberg.DE"
- *  Please send your contact address to get information on updates and
- *  new features. Questions will be answered as soon as possible.
- *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ * 
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
  *
  *  references :
  *  1.F.Eisenhaber, P.Lijnzaad, P.Argos, M.Scharf
