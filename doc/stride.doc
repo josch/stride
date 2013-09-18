@@ -186,6 +186,25 @@
 
 			       stride 2gls.brk -rabc -cc -o
 
+       Examples for contact order calculations:
+
+
+	 1. Whole PDB entry:
+
+				  stride 1bed.brk -$ -k
+
+	 2. Residue range:
+
+			     stride 2gsq.brk -$ -k -x76 -y202
+
+	 3. Single chain:
+
+			       stride 1alv.brk -$ -k  -ra
+
+	 4. Residue range in a chain:
+
+			 stride 1bmt.brk -$ -k  -ra -x651 -y740
+
 
 
        6.  Output format
